@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: goapp
-        image: ksxack/lesson1:v0.2
+        image: lelikant/stepic_kuber_lessons:lesson1_go
         ports:
         - containerPort: 8080
